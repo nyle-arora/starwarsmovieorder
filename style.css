@@ -1,0 +1,45 @@
+body{
+	background-image: url("http://getwallpapers.com/wallpaper/full/b/9/b/279857.jpg");
+}
+
+a.btn{
+	position: relative;
+	display: block;
+	font-size: 50px;
+	color: white;
+	margin: 40px 0px;
+	left: 590px;
+	font-weight: strong;
+	text-decoration: none;
+}
+
+a.btn2{
+	position: relative;
+	display: block;
+	font-size: 50px;
+	color: white;
+	margin: 40px 0px;
+	left: 520px;
+	font-weight: strong;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: overline underline;
+}
+
+a.btn:active{
+	font-size: 60px;
+	left: 570px;
+}
+
+a.btn2:active{
+	font-size: 60px;
+	left: 500px;
+}
+
+.logo{
+	position: relative;
+	left: 400px;
+	margin: 40px 0px;
+}

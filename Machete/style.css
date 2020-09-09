@@ -1,0 +1,68 @@
+body{
+	background-image: url("http://getwallpapers.com/wallpaper/full/b/9/b/279857.jpg");
+}
+
+nav{
+	display: inline-flex;
+}
+
+a.nav{
+	color: yellow;
+	font-family: Roboto;
+	font-size: 38px;
+	margin: 20px 100px;
+	text-decoration: none;
+	position: relative;
+	left: 40px;
+}
+
+a.nav:hover{
+	font-size: 38px;
+	color: yellow;
+	text-decoration: underline overline;
+}
+
+a.nav:active{
+	font-size: 40px;
+	color: yellow;
+}
+
+a.nav2{
+	color: yellow;
+	font-family: Roboto;
+	font-size: 38px;
+	margin: 20px 100px;
+	text-decoration: underline;
+	position: relative;
+	left: 40px;
+}
+
+a.nav2:hover{
+	font-size: 38px;
+	color: yellow;
+	text-decoration: underline overline;
+}
+
+a.nav2:active{
+	font-size: 40px;
+	color: yellow;
+}
+
+.logos{
+	position: relative;
+	left: 100px;
+}
+
+.textbox{
+	background-color: black;
+	color: white;
+	border: 3px solid red;
+	padding: 25px;
+	width: 1200px;
+	position: relative;
+	left: 100px;
+}
+
+img{
+	margin: 20px 0px;
+}
