@@ -8,7 +8,8 @@ a.btn{
 	font-size: 50px;
 	color: white;
 	margin: 40px 0px;
-	left: 590px;
+	/*left: 590px;*/
+	left: 40%;
 	font-weight: strong;
 	text-decoration: none;
 }
@@ -19,7 +20,8 @@ a.btn2{
 	font-size: 50px;
 	color: white;
 	margin: 40px 0px;
-	left: 520px;
+	/*left: 520px;*/
+	left: 35%;
 	font-weight: strong;
 	text-decoration: none;
 }
@@ -40,6 +42,7 @@ a.btn2:active{
 
 .logo{
 	position: relative;
-	left: 400px;
+	/*left: 400px;*/
+	left: 30%;
 	margin: 40px 0px;
 }
